@@ -1,4 +1,4 @@
-# CloudMamba — WHUS2 Binary Cloud Detection
+# CloudMamba
 
 ## File Structure
 
