@@ -3,7 +3,7 @@
 ## File Structure
 
 ```
-MCDNet-whus2/
+cloudmamba/
 ├── train.py                  # Training entry point
 ├── eval.py                   # Inference and evaluation entry point
 ├── config.py                 # Training arguments
