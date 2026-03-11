@@ -10,7 +10,7 @@ cloudmamba/
 ├── models/
 │   ├── model_zoo.py          # Model factory
 │   └── sseg/                 # Model implementations
-│       ├── cloudmamba.py     # CloudMamba (proposed)
+│       ├── cloudmamba.py     # CloudMamba 
 │       ├── cloudnet.py
 │       ├── cdnetv2.py
 │       ├── hrcloudnet.py
@@ -25,8 +25,8 @@ cloudmamba/
 │   ├── train/  image/ + gt/
 │   ├── val/    image/ + gt/
 │   └── test/   image/ + gt/
-├── checkpoints/              # Saved weights (auto-created)
-└── results/                  # Prediction outputs (auto-created)
+├── checkpoints/              # Saved weights
+└── results/                  # Prediction outputs
 ```
 
 ## Training
